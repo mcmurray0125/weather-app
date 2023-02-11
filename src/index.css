@@ -1,0 +1,11 @@
+body {
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif !important;
+}
+.main-app {
+  background: linear-gradient(#e66465, #9198e5);
+}
+#app-container {
+  background: linear-gradient(#00000000, #0092e1);
+  border-radius: 4rem !important;
+}

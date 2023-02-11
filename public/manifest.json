@@ -1,0 +1,25 @@
+{
+    "short_name": "MM Weather",
+    "name": "MM Weather",
+    "icons": [
+      {
+        "src": "mm-weather-icon-64.png",
+        "sizes": "64x64",
+        "type": "image/png"
+      },
+      {
+        "src": "mm-weather-icon-192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "mm-weather-icon-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
